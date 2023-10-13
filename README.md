@@ -21,7 +21,7 @@ Welcome to the ANSYS Bridge Analysis project repository! This project focuses on
 
 ## Introduction
 
-In this project, we use ANSYS software to analyze the structural behavior of bridges. The analysis includes factors such as load distribution, stress, displacement, and more. The goal is to provide an educational resource for understanding bridge engineering principles and simulation techniques.
+In this project, we use ANSYS software to analyze the structural behavior of bridges. The analysis includes factors such as load distribution, stress, displacement,  and  more. The goal is to provide an educational resource for understanding bridge engineering principles and simulation techniques.
 
 ## Features
 
@@ -37,7 +37,7 @@ In this project, we use ANSYS software to analyze the structural behavior of bri
 - ANSYS software installed (version XYZ)
 - Python (optional for automation)
 - Bridge geometry and load data
-
+  <!--installation beloew-->
 ### Installation
 
 1. Clone this repository:
